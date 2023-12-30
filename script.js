@@ -1,3 +1,7 @@
+//always change your images extension to webp
+//always change your fonts extension to woff2
+//cloud converter website
+
 function deleted(itemIndex) {
   console.log("deleted", itemIndex);
   itemJsonArraystr = localStorage.getItem("itemJson");
